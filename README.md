@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/33005406/README.md)
 <div align="center">
 
-# Gabriel Vieira Rodrigues Daniel
+# Gabriel Vieira Rodrigues
 
 ### Estudante de Informática · Desenvolvimento Web e Mobile · IoT · Redes · Dados
 
